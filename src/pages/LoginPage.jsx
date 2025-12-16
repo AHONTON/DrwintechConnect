@@ -144,7 +144,7 @@ const LoginPage = () => {
             transition={{ delay: 0.3 }}
             className="mb-4 text-4xl font-bold tracking-tight xl:text-5xl"
           >
-            DRWINTECH INTC
+            DRWINTECH INC
           </motion.h1>
 
           {/* Slogan */}
@@ -233,7 +233,7 @@ const LoginPage = () => {
             className="flex flex-col items-center mb-6 text-center lg:hidden"
           >
             <h1 className="mb-2 text-2xl font-bold text-gray-900 sm:text-3xl dark:text-white">
-              DRWINTECH INTC
+              DRWINTECH INC
             </h1>
             <div className="inline-block px-4 py-1 text-xs font-bold tracking-widest text-white rounded-full bg-gradient-to-r from-blue-600 to-blue-800">
               PUSH BEYOND TODAY
