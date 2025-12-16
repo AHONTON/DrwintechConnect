@@ -304,7 +304,7 @@ const LoginPage = () => {
             className="mt-6 text-center sm:mt-8"
           >
             <p className="text-xs text-gray-500 dark:text-gray-400">
-              © 2025 DRWINTECH INTC. Tous droits réservés.
+              © 2025 DRWINTECH INC. Tous droits réservés.
             </p>
           </motion.footer>
         </div>
