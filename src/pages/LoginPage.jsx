@@ -262,7 +262,7 @@ const LoginPage = () => {
               </motion.div>
             </div>
             <h2 className="mb-2 text-xl font-bold text-gray-900 sm:text-2xl lg:text-3xl dark:text-white">
-              Wi-Fi Zone Entreprise
+              Bienvenue chez DRWINTECH
             </h2>
             <p className="text-xs text-gray-600 sm:text-sm dark:text-gray-400">
               Connectez-vous pour accéder au réseau sécurisé DRWINTECH
